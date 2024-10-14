@@ -2,10 +2,6 @@
 
 ### 👨‍💻 About Me
 I'm a **Data Science and AI student** passionate about machine learning, data analysis, and software engineering. Currently studying at Universidad de Deusto, pursuing a double degree in **Data Science & Artificial Intelligence** and **Computer Engineering**.
-
-### 🛠️ Technologies I Work With:
-- **Programming Languages:** Python, Java, C++
-- **Frameworks & Libraries:** TensorFlow, Scikit-Learn, Pandas, NumPy
 <!--
 **InigoPena/InigoPena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
