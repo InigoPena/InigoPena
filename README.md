@@ -2,6 +2,10 @@
 
 ### 👨‍💻 About Me
 I'm a **Data Science and AI student** passionate about machine learning, data analysis, and software engineering. Currently studying at Universidad de Deusto, pursuing a double degree in **Data Science & Artificial Intelligence** and **Computer Engineering**.
+
+### 📫 Connect Me:
+- [LinkedIn](https://www.linkedin.com/in/inigopeña)
+- [Email](mailto:inigo@example.com)
 <!--
 **InigoPena/InigoPena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
