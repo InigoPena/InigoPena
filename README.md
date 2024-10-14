@@ -8,7 +8,7 @@ I'm a **Data Science and AI student** passionate about machine learning, data an
 
 - ### 🛠️ Technologies I Work With:
 
-![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png) ![Python](https://img.icons8.com/color/48/000000/python.png) ![C](https://img.icons8.com/color/48/000000/c-programming.png) ![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png) ![RStudio](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftwitter.com%2Frstudiosupport&psig=AOvVaw3zT_5W-uutaqjypZuj4w6C&ust=1729001292059000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOCNkvCFjokDFQAAAAAdAAAAABAI) ![SQL](https://img.icons8.com/ios-filled/50/000000/sql.png) ![Azure](https://img.icons8.com/color/48/000000/azure-1.png)
+![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png) ![Python](https://img.icons8.com/color/48/000000/python.png) ![C](https://img.icons8.com/color/48/000000/c-programming.png) ![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png) ![RStudio](https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonduck.com%2Ficons%2F112307%2Frstudio&psig=AOvVaw3zT_5W-uutaqjypZuj4w6C&ust=1729001292059000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOCNkvCFjokDFQAAAAAdAAAAABAh) ![SQL](https://img.icons8.com/ios-filled/50/000000/sql.png) ![Azure](https://img.icons8.com/color/48/000000/azure-1.png)
 <!--
 **InigoPena/InigoPena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
