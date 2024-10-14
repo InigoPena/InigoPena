@@ -8,7 +8,7 @@ I'm a **Data Science and AI student** passionate about machine learning, data an
 
 - ### 🛠️ Technologies I Work With:
 
-![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png) ![Python](https://img.icons8.com/color/48/000000/python.png) ![C](https://img.icons8.com/color/48/000000/c-programming.png) ![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png) ![RStudio](https://img.icons8.com/color/48/000000/rstudio.png) ![SQL](https://img.icons8.com/ios-filled/50/000000/sql.png) ![Azure](https://img.icons8.com/color/48/000000/azure-1.png)
+![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png) ![Python](https://img.icons8.com/color/48/000000/python.png) ![C](https://img.icons8.com/color/48/000000/c-programming.png) ![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png) ![RStudio]([https://img.icons8.com/color/48/000000/rstudio.png](https://www.rstudio.com/wp-content/uploads/2014/02/RStudio-Logo-Gray-1.png)) ![SQL](https://img.icons8.com/ios-filled/50/000000/sql.png) ![Azure](https://img.icons8.com/color/48/000000/azure-1.png)
 <!--
 **InigoPena/InigoPena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
