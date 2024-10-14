@@ -8,7 +8,7 @@ I'm a **Data Science and AI student** passionate about machine learning, data an
 
 - ### 🛠️ Technologies I Work With:
 
-![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png) ![Python](https://img.icons8.com/color/48/000000/python.png) ![C](https://img.icons8.com/color/48/000000/c-programming.png) ![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png) ![RStudio](https://img.icons8.com/color/48/000000/rstudio.png) ![SQL](https://img.icons8.com/ios-filled/50/000000/sql.png) ![Azure](https://img.icons8.com/color/48/000000/azure-1.png)
+![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png) ![Python](https://img.icons8.com/color/48/000000/python.png) ![C](https://img.icons8.com/color/48/000000/c-programming.png) ![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png) ![RStudio]([https://img.icons8.com/color/48/000000/rstudio.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngegg.com%2Fes%2Fpng-whmuk&psig=AOvVaw0l-zvPfXuSwHeZbglWioKP&ust=1729000545666000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKitl42DjokDFQAAAAAdAAAAABAJ)) ![SQL](https://img.icons8.com/ios-filled/50/000000/sql.png) ![Azure](https://img.icons8.com/color/48/000000/azure-1.png)
 <!--
 **InigoPena/InigoPena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
