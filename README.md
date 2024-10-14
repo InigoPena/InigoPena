@@ -4,7 +4,7 @@
 I'm a **Data Science and AI student** passionate about machine learning, data analysis, and software engineering. Currently studying at Universidad de Deusto, pursuing a double degree in **Data Science & Artificial Intelligence** and **Computer Engineering**.
 
 - ### 📫 Connect Me:
-[![LinkedIn](https://img.icons8.com/fluent/48/000000/linkedin.png)]([https://www.linkedin.com/in/inigopeña](https://www.linkedin.com/in/i%C3%B1igo-pe%C3%B1a-de-las-heras-341971265/)) [![Email](https://img.icons8.com/fluent/48/000000/email.png)](mailto:inigoatezaina@gmail.com)
+[![LinkedIn](https://img.icons8.com/fluent/48/000000/linkedin.png)](https://www.linkedin.com/in/i%C3%B1igo-pe%C3%B1a-de-las-heras-341971265/) [![Email](https://img.icons8.com/fluent/48/000000/email.png)](mailto:inigoatezaina@gmail.com)
 
 - ### 🛠️ Technologies I Work With:
 
